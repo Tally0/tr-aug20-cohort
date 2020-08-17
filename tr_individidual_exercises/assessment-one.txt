@@ -1,0 +1,22 @@
+#tech returners assessment one:
+##Natalie O'Rourke
+###18/08/20
+
+[See LinkedIn Profile here (https://www.linkedin.com/in/tallyo/)
+
+<!-- Markdown formatting 
+
+**bold**
+*italicised*
+~~strikethru~~
+`call out code`
+```call out block code```
+<!-- comment -->
+
+-->
+
+
+
+
+
+
